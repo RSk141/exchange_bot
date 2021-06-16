@@ -1,0 +1,7 @@
+aiogram~=2.12
+requests
+environs~=8.0.0
+gino
+sqlalchemy
+pandas
+plotly
